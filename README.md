@@ -13,7 +13,7 @@ I built a **fully responsive Pinterest clone** using only **HTML & CSS**, incorp
 
 ## 💻 Technologies Used  
 - HTML5  
-- CSS3 (Flexbox, Grid, Pseudo-elements)  
+- CSS3 (Flexbox, Pseudo-elements)  
 
 📌 Check out the repository and feel free to contribute! 🚀  
 
