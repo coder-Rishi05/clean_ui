@@ -9,7 +9,7 @@ I built a **fully responsive Pinterest clone** using only **HTML & CSS**, incorp
 ✅ **Pure HTML & CSS** – No JavaScript used  
 
 ## 🔗 Live Demo  
-[Your Hosted Link]  
+[[Your Hosted Link](https://cleanui3.netlify.app/)]  
 
 ## 💻 Technologies Used  
 - HTML5  
